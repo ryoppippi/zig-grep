@@ -6,7 +6,7 @@ pub const pkgs = struct {
     pub const regex = Pkg{
         .name = "regex",
         .source = FileSource{
-            .path = ".gyro\\zig-regex-tiehuis-github.com-30c3d6fa\\pkg\\src\\regex.zig",
+            .path = ".gyro/zig-regex-omgtehlion-github.com-01bc351b/pkg/src/regex.zig",
         },
     };
 

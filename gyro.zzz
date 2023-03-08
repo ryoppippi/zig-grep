@@ -1,6 +1,6 @@
 deps:
   regex:
     git:
-      url: "https://github.com/tiehuis/zig-regex"
+      url: "https://github.com/omgtehlion/zig-regex"
       ref: master
       root: src/regex.zig
